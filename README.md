@@ -1,5 +1,5 @@
 #  Task Management System
-#### Video Demo:  <[CLICK HERE](https://youtu.be/CpurL9nzvM8)>
+
 
 ## Overview
 My project is a tool for creating, updating, sorting, and searching a task management system.
